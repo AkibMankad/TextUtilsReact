@@ -20,7 +20,7 @@ self.__precacheManifest = [
     "url": "/TextUtilsReact/static/js/runtime~main.bec29d19.js"
   },
   {
-    "revision": "ff6fe65536d4405c838ae32096bac481",
+    "revision": "c69525a2b068d150c67e196747c424b0",
     "url": "/TextUtilsReact/index.html"
   }
 ];
